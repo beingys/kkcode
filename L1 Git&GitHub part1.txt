@@ -1,0 +1,22 @@
+Learnings in this lesson are:-
+Repository - it is basically a folder consisting projects.
+
+why we use Github & Git(Version control system) ?
+For maintaining a database of code changes.
+
+Some commands of git or linux are:-
+
+ls :- List commands
+mkdir :- Make Directory
+cd :- Change Directory
+git init :- initialise a git Repository
+ls -a :- Shows all files including hidden files
+touch :- creat a new files within a projects
+git status :- gives status for any untracked files
+git add . :-add all untracked filesto stagging area.
+git commit -m "message" :-
+vi names.txt :-can change data inside names.txt files
+git reset ####(#=> hash code from git log) :- it will remove log file above that hash code
+git remote add origin url :- to connect Github Repository with local Repository on hardrive.
+git remote -v :- shows urls in  origin.
+git push origin main/master :- for uploading local updated Repository to Github Repository.
