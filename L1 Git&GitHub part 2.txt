@@ -1,0 +1,16 @@
+This is the second part of Lexture 1 that is Git and Github.
+
+Some more commands for git are as follows:-
+
+git branch feature :- create a new branch named feature.
+git checkout feature :- This command means that the head is pointing towards feature branch.Which means all new comments you made added towards the head.
+git merge feature :- merge branch with main.
+git clone url :- downloading Repository from Github to local hardrive.
+
+//From where you have forked the project that url is called upstream url.
+
+git remote add upstream url :- to add upstream url in urls origin[git remote -v].
+
+What is Pull Request?
+
+Pull Request is to asking Repository owner to mix our branch with main branch.
